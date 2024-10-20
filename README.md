@@ -1,6 +1,6 @@
-# Pandit Animation
+# PanditAnimation
 
-Welcome to **Pandit Animation**, home to an interactive global map featuring over 55,000 airports, powered by **Leaflet** and **OpenStreetMap Routing Machine (OSRM)**. Discover the world of aviation in real time, explore flight routes, and find the nearest airport with just a few clicks.
+Welcome to **PanditAnimation**, home to an interactive global map featuring over 55,000 airports, powered by **Leaflet** and **OpenStreetMap Routing Machine (OSRM)**. Discover the world of aviation in real time, explore flight routes, and find the nearest airport with just a few clicks.
 
 ## About the Project
 
