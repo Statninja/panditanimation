@@ -1,4 +1,3 @@
-# PanditAnimation
 
 # PanditAnimation
 
