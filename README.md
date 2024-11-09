@@ -54,7 +54,7 @@ Interested in contributing to this project? Feel free to reach out! We welcome i
 ## Contact Us
 
 For any inquiries or suggestions, feel free to contact us:
-- **Email**: [info@panditanimation.com](mailto:info@panditanimation.com)
+- **Email**: [info@panditanimation.com](mailto:panditadata@gmail.com)
 
 ---
 
