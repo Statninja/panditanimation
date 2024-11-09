@@ -1,55 +1,69 @@
 # PanditAnimation
 
-Welcome to **PanditAnimation**, home to an interactive global map featuring over 55,000 airports, powered by **Leaflet** and **OpenStreetMap Routing Machine (OSRM)**. Discover the world of aviation in real time, explore flight routes, and find the nearest airport with just a few clicks.
+# PanditAnimation
+
+Welcome to **PanditAnimation**, the interactive global map platform featuring over 55,000 airports, live earthquake updates, and a comprehensive weather dashboard. Powered by **Leaflet**, **OpenStreetMap Routing Machine (OSRM)**, and real-time data integrations, PanditAnimation brings the world of aviation, geography, and weather together in one dynamic interface.
 
 ## About the Project
 
-Pandit Animation presents an advanced map-based visualization tool designed to help users navigate through a network of 55,000 airports worldwide. Built using **Leaflet**, an open-source JavaScript library for mobile-friendly interactive maps, and **OSRM** for route calculations, the platform offers powerful features like route planning, nearest airport calculation, and more.
+PanditAnimation offers advanced visualization tools for navigating 55,000+ airports, tracking recent earthquake activity, and accessing up-to-date weather forecasts. Built with **Leaflet**, **OSRM**, and various data sources, the platform is designed for users who want a real-time view of global aviation, seismic events, and weather conditions.
 
 ## Website
 
 Visit our website: [Pandit Animation](https://www.panditanimation.com)
 
-Explore the map, discover airports around the globe, and find the fastest routes between destinations with ease.
+Explore a world map that allows you to locate airports, monitor real-time earthquake activity, and access weather information across the globe.
 
 ## Key Features
 
-- **55,000 Airports**: View detailed information about airports worldwide, including their coordinates and locations.
-- **Route Calculation**: Find the shortest or fastest routes between airports using **OSRM** integration.
-- **Nearest Airport Finder**: Quickly calculate and identify the closest airport to any location.
-- **Interactive Map**: Enjoy a smooth, interactive map experience using **Leaflet**, with the ability to zoom, pan, and explore.
-- **Real-Time Updates**: Stay updated with accurate geographic data and route planning capabilities.
+- **55,000 Airports**: Access detailed information on airports worldwide, including coordinates and locations.
+- **Live Earthquake Updates**: View real-time earthquake events, updated every minute, displayed on the map to monitor seismic activity as it happens.
+- **24-Hour Earthquake History**: See recent earthquakes from the past 24 hours, with markers indicating magnitude and location.
+- **Weather Dashboard**: A live weather dashboard provides real-time forecasts and weather alerts, with features such as wind speed, temperature, and precipitation.
+- **Route Calculation**: Use **OSRM** to find optimal routes between selected airports.
+- **Nearest Airport Finder**: Calculate and locate the closest airport to any point on the map.
+- **Interactive Map**: Enjoy smooth, interactive navigation with the ability to zoom, pan, and explore global features.
 
 ## Technologies Used
 
-- **Leaflet**: A leading open-source library for interactive web maps, enabling smooth and responsive map interactions.
-- **OSRM (Open Source Routing Machine)**: Fast and accurate routing engine for finding optimal routes between two or more locations.
-- **OpenStreetMap (OSM)**: Provides comprehensive and up-to-date geographic data for mapping and route planning.
-- **JavaScript**: Powers the dynamic features of the map and its interactions.
+- **Leaflet**: An open-source library for interactive maps, providing a responsive experience across devices.
+- **OSRM (Open Source Routing Machine)**: A powerful routing engine to calculate optimal routes between multiple locations.
+- **OpenStreetMap (OSM)**: Up-to-date geographic data for mapping and route planning.
+- **JavaScript**: Powers dynamic features of the map and its interactions.
+- **Real-Time Data Feeds**: Earthquake data and weather forecasts are updated live using external APIs for accuracy.
 
 ## How It Works
 
-1. **View Airports**: Open the map and see the locations of 55,000 airports worldwide. Click on any airport marker for more information, including coordinates and nearby locations.
-2. **Calculate Routes**: Select two airports on the map, and the OSRM routing engine will compute the fastest or shortest route.
-3. **Find Nearest Airport**: Enter your location or select a point on the map, and our system will calculate the closest airport to you.
+### Viewing Airports
+1. Open the map and see the locations of 55,000 airports worldwide.
+2. Click on an airport marker for information, including coordinates and nearby locations.
 
-## Usage
+### Real-Time Earthquake Updates
+1. Earthquake markers display seismic activity in real-time, updating every minute.
+2. Users can view recent earthquakes from the last 24 hours, with indicators for magnitude and affected regions.
 
-### Viewing the Map:
-Simply visit [Pandit Animation](https://www.panditanimation.com) and start exploring the map. Use the zoom and pan tools to navigate the world and find airports.
+### Weather Dashboard
+1. Access live weather data, including temperature, precipitation, and wind speed, displayed on the interactive map.
+2. View forecasts and weather alerts for any selected area.
 
-### Calculating Routes:
-1. Select the **start** and **end** airports by clicking on their markers.
-2. Use the **OSRM route** function to calculate the best route between the selected airports.
-3. The route will be displayed on the map along with distance and estimated time.
+### Calculating Routes
+1. Select the **start** and **end** airports by clicking on markers.
+2. Use the **OSRM route** function to calculate the best route between selected airports, showing distance and estimated time.
 
-### Finding Nearest Airport:
-1. Enter your location or click anywhere on the map.
-2. The nearest airport will be highlighted, along with distance and estimated travel time.
+### Finding the Nearest Airport
+1. Enter your location or select a point on the map.
+2. The nearest airport will be highlighted, with information on distance and estimated travel time.
+
+### Earthquake Monitoring
+1. Earthquake markers update automatically each minute, showing recent activity.
+2. Earthquakes from the past 24 hours are also displayed, helping users monitor ongoing seismic events.
+
+### Using the Weather Dashboard
+- Check the latest weather conditions and forecasts for regions worldwide, with live updates for temperature, wind speed, and other essential data.
 
 ## How to Contribute
 
-Interested in contributing to this project? Feel free to reach out! We welcome ideas for enhancing the map's functionality and improving user experience.
+We welcome ideas for enhancing the functionality and user experience of PanditAnimation. Feel free to reach out if you'd like to contribute to the project.
 
 ## Contact Us
 
@@ -58,5 +72,5 @@ For any inquiries or suggestions, feel free to contact us:
 
 ---
 
-Thank you for visiting **Pandit Animation**! We hope you enjoy using our interactive airport map and route planner.
+Thank you for visiting **PanditAnimation**! Explore real-time data and enjoy using our interactive map to stay connected with the world of aviation, weather, and seismic activity.
 
